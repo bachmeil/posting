@@ -1,1 +1,10 @@
 remote_theme: bachmeil/rain
+
+# Site settings
+title:          Lance Bachmeier
+description:    "Content I find interesting"
+
+# Author
+author:
+  name:         Lance Bachmeier
+  url:          https://lancebachmeier.com
