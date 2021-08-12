@@ -18,3 +18,8 @@ author:
 - I wrote this post in the VS Code web editor. Hit `.` on your Github repo to open the editor.
 - I committed the post.
 - Profit.
+
+The remote theme I linked above has equation support. Single dollar signs for inline equations: $y_{t} = x_{t} + \nu_{t}$
+
+Double dollar signs for displayed equations:
+$$y_{t} = x_{t} + \nu_{t}$$
