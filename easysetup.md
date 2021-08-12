@@ -4,7 +4,7 @@
 - I created a file called `_config.yml` with only the content: `remote_theme: bachmeil/rain`.
 - I dumped this (optional) information into `_config.yml`:
     
-    ```
+```
     # Site settings
 title:          Lance Bachmeier
 description:    "Content I find interesting"
