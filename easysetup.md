@@ -23,3 +23,5 @@ The remote theme I linked above has equation support. Single dollar signs for in
 
 Double dollar signs for displayed equations:
 $$y_{t} = x_{t} + \nu_{t}$$
+
+.
