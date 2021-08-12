@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Random Stuff
 
 This is where I post random things that aren't a good fit for my website.
