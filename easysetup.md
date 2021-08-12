@@ -22,6 +22,6 @@ author:
 The remote theme I linked above has equation support. Single dollar signs for inline equations: $y_{t} = x_{t} + \nu_{t}$
 
 Double dollar signs for displayed equations:
-$$y_{t} = x_{t} + \nu_{t}$$
+\(y_{t} = x_{t} + \nu_{t}\)
 
 .
