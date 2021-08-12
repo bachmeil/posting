@@ -5,7 +5,7 @@
 - I dumped this (optional) information into `_config.yml`:
     
 ```
-    # Site settings
+# Site settings
 title:          Lance Bachmeier
 description:    "Content I find interesting"
 
